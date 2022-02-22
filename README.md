@@ -27,3 +27,10 @@ yarn build
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
+
+---
+
+### Build with Pinia 🍍
+
+See Pinia document for further infos!
+https://pinia.vuejs.org/getting-started.html
